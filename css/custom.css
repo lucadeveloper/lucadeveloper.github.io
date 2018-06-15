@@ -1421,10 +1421,16 @@ label {
     font-size: 5em;
 }
 
-
 .centradito {
     font-family: 'Comfortaa', cursive;
 }
+
+.fondo-negro {
+  background-color: black;
+}
+
+
+
 
 /* *{
     border: 1px solid #000;
